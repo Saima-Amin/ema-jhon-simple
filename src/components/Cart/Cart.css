@@ -1,0 +1,6 @@
+.cart{
+    background-color: hsl(36, 100%, 85%);
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
